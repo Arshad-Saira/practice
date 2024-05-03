@@ -1,6 +1,6 @@
-# Function
+# Reverse Mapping Function
 
-def function(num):
+def reverse_mapping(num):
     dict = {3: 7, 7: 3}
     
     return dict[num]
