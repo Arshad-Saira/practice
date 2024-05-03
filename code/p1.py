@@ -6,5 +6,5 @@ def test_sum(sum):
         print("True")
     else:
         print("False")
-        
-test_sum(6)
+
+test_sum(10)
